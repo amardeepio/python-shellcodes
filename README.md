@@ -10,7 +10,7 @@ All the codes are tested on linux machines. Running these codes on windows 32 or
 What things you need to install the software and how to install them
 
 ```
-Python 2 or 3 
+Python 2.7 or 3.5 
 pip for installing modules
 reportlab for making pdf from data 
 ```
